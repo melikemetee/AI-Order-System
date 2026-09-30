@@ -1,0 +1,31 @@
+# Python
+ai-service/venv/
+ai-service/__pycache__/
+*.pyc
+
+# Environment files
+.env
+ai-service/.env
+backend/.env
+
+# SQLite
+*.sqlite*
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Laravel
+backend/vendor/
+backend/node_modules/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
