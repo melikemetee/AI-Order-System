@@ -310,7 +310,7 @@ http://localhost:5173/admin
 
 ## Önemli Not
 
-API anahtarı gibi özel bilgiler GitHub'a yüklenmemelidir. `.env` dosyası `.gitignore` içerisinde tutulmalıdır.
+API anahtarı gibi özel bilgiler GitHub'a yüklenmemiştir. `.env` dosyası `.gitignore` içerisinde tutulmuştur.
 
 ## Proje Durumu
 
